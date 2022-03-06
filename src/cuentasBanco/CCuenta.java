@@ -41,7 +41,7 @@ public class CCuenta {
 	}
 
 	/** 
-	 * @return devuelve saldo de la cuenta bancaria.
+	 * @return devuelve saldo de la cuenta bancaria. 
 	 */
 	public double estado() {
 		return getSaldo();
